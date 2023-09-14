@@ -1,0 +1,74 @@
+**TYPOGRAPHY**
+
+font-family: 'Lato', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+
+																			-----------------------------------------------------
+
+**COLOR**
+Couleur Principale : #0073e6
+
+Couleurs secondaires :
+Le gris foncé (#333333) peut être utilisé pour le texte principal. 
+Le gris clair (#f5f5f5) peut être utilisé pour les arrière-plans. 
+Le vert (#4caf50) pour mettre en évidence des éléments importants.
+
+Accent Color :rouge (#ff5722) ou le jaune (#ffeb3b) pour mettre en évidence des éléments interactifs ou des boutons.
+
+
+																			-----------------------------------------------------
+
+
+**CONTENT**
+
+(Image : Équipe créative travaillant ensemble)
+
+À propos de notre entreprise technologique
+
+Bienvenue chez [Votre Nom d'Entreprise], où l'innovation est notre passion, et la technologie est notre terrain de jeu. Découvrez comment nous repoussons les frontières de la technologie pour créer un avenir meilleur.
+
+Notre Mission
+
+Chez [Votre Nom d'Entreprise], nous sommes les pionniers de l'Intelligence Artificielle (IA), de la Réalité Virtuelle (RV) et de la Robotique. Imaginez des IA intelligentes qui transforment la façon dont vous interagissez avec les ordinateurs, des mondes virtuels époustouflants qui fusionnent la réalité et l'imaginaire, et des robots autonomes qui rendent la vie plus facile. Nous donnons vie à ces idées chaque jour.
+
+Nos IA révolutionnent l'assistance médicale, nos expériences de RV plongent les utilisateurs dans des univers fantastiques, et nos robots automatisent les tâches industrielles complexes.
+
+(Image : Robot et Réalité virtuelle)
+
+Notre Histoire
+
+Notre voyage a commencé en [Année de Fondation], lorsque nous avons entrepris notre mission pour repenser le futur. Depuis lors, notre entreprise a grandi pour réunir plus de 300 esprits créatifs, venant de 30 pays différents. Notre histoire est faite de défis relevés, d'innovations disruptives et de réussites qui ont changé le monde.
+
+Notre Approche
+
+Chez [Votre Nom d'Entreprise], la qualité prime. Plutôt que de saturer le marché de produits moyens, nous concentrons nos efforts sur un nombre restreint d'innovations exceptionnelles. Nos équipes diversifiées abordent les problèmes technologiques sous tous les angles, encourageant le débat et la créativité.
+
+Exemples concrets : Notre dernier algorithme IA a réduit de moitié le temps de diagnostic médical, notre casque de RV a redéfini l'expérience de jeu, et notre robot de fabrication révolutionnaire a augmenté l'efficacité de la production de 30 %.
+
+(Image : <iframe width="560" height="315" src="https://www.youtube.com/embed/yWE1K2SiCnw?si=ZitEqb_BsXUIuOhB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+
+Notre Engagement envers la Croissance
+
+Chez [Votre Nom d'Entreprise], nous croyons que l'apprentissage et la croissance sont essentiels. Nous investissons dans notre équipe, offrant une formation interne, un soutien actif pour acquérir de nouvelles compétences et l'opportunité d'apprendre des uns des autres. Nos salons de développement et de musique, organisés par le personnel, permettent d'explorer les nouvelles technologies et les meilleures pratiques.
+
+(Image : Equipe de développement)
+
+Notre Équipe
+
+Nous sommes plus qu'une entreprise, nous sommes une communauté mondiale de plus de 350 esprits créatifs. La plupart d'entre nous sont des musiciens, des artistes, des ingénieurs, des chercheurs et des experts dans leurs domaines respectifs. Nos talents hétéroclites nous permettent de résoudre les défis les plus complexes et de concevoir des solutions novatrices.
+
+Exemples concrets : Parmi nous, des experts en apprentissage automatique, des ingénieurs en réalité virtuelle primés, et des chercheurs en robotique réputés.
+
+
+(Image : Avantages pour les employés)
+
+Travailler Chez Nous
+
+Nous recherchons des talents du monde entier, et nous faisons tout notre possible pour faciliter votre transition. Si vous nous rejoignez à Berlin, nous offrons un soutien complet, y compris des cours gratuits d'allemand ou d'anglais. Vous bénéficierez d'une assurance santé complète, de congés maternité et paternité généreux, et d'horaires flexibles. Le travail est important, mais nous savons aussi nous amuser avec des sorties d'entreprise et des activités en petit groupe.
+
+(Image : Futur prometteur)
+
+Notre Avenir
+
+Nous sommes fiers de notre passé, mais notre regard est tourné vers l'avenir. Chez [Votre Nom d'Entreprise], nous continuerons de repousser les limites de la technologie pour créer un avenir meilleur. Si vous souhaitez rejoindre cette aventure, postulez dès maintenant et soyez une partie intégrante de notre succès continu.
+
